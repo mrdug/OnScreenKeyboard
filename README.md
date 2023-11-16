@@ -6,8 +6,11 @@
 - Validate the server response
 
 # Update GitHub
-- git status - check that it sees your updates
-- 
+- git status               #check that it sees your updates
+- git add .                #stage all changes
+- git status               #check that updates will be committed
+- git commit -m "comment:  #commit
+- git push origin main     #push to remote repo
 
 # On Screen Keyboard
 
