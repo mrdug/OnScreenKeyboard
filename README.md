@@ -1,3 +1,14 @@
+# Run the app
+- Open VS Code, open this project. Go to the terminal and type: dotnet run
+- In a browser, navigate to: http://localhost:5033/swagger/index.html to access Swagger
+- NOTE: port 5033 is set in Properties/launchSettings.json
+- Click the API, specify the input file and click Execute. 
+- Validate the server response
+
+# Update GitHub
+- git status - check that it sees your updates
+- 
+
 # On Screen Keyboard
 
 ## The Problem
